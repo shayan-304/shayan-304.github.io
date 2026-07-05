@@ -4,7 +4,7 @@ This is the repository for my personal developer portfolio, showcasing my skills
 
 **🌐 Live Website:** [shayan-304.github.io](https://shayan-304.github.io/)
 
-## 🛠️ Built With
+##  Built With
 - **HTML5:** Semantic structure and layout.
 - **CSS3:** Custom styling, CSS Grid/Flexbox, and modern glassmorphism UI.
 - **JavaScript:** Interactivity, mobile menu toggling, and scroll animations.
